@@ -25,6 +25,8 @@
 #ifndef TIMESYNC_TIMESYNC_H_
 #define TIMESYNC_TIMESYNC_H_
 
+#include <cstdio>
+#include <memory>
 #include <thread>
 #include "comm_protocol.h"
 #include "comm_device.h"
